@@ -3,8 +3,8 @@
 
 for noun in range(0, 100):
     for verb in range(0, 100):
-        with open("input_b.txt") as input_b:
-            numbers = list(map(int, input_b.read().split(",")))
+        with open("input_2.txt") as input_2:
+            numbers = list(map(int, input_2.read().split(",")))
             
             position = 0
 

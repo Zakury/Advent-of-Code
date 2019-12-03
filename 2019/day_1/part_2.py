@@ -1,8 +1,8 @@
 # The Tyranny of the Rocket Equation
 # Part 2: Rank 681
 
-with open("input_b.txt") as input_b:
-    masses = map(int, input_b.readlines())
+with open("input_2.txt") as input_2:
+    masses = map(int, input_2.readlines())
     total = 0
 
     for mass in masses:
