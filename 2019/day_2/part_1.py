@@ -1,8 +1,8 @@
 # 1202 Program Alarm
 # Part 1: Rank 457
 
-with open("input_1.txt") as input_1:
-    numbers = list(map(int, input_1.read().split(",")))
+with open("input") as input_file:
+    numbers = list(map(int, input_file.read().split(",")))
     
     position = 0
 

@@ -1,9 +1,9 @@
 # Crossed Wires
 # Part 2: Rank 1597
 
-with open("input_2.txt") as input_2:
-    wire_1 = input_2.readline()[:-1].split(",")
-    wire_2 = input_2.readline().split(",")
+with open("input") as input_file:
+    wire_1 = input_file.readline()[:-1].split(",")
+    wire_2 = input_file.readline().split(",")
     distances = []
     positions = []
     totals = []
