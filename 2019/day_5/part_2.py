@@ -1,3 +1,6 @@
+# Sunny with a Chance of Asteroids
+# Part 2: Rank 16548
+
 with open("input") as input_file:
     position = 0
     numbers = input_file.read().split(",")
