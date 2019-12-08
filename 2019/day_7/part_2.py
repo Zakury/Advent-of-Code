@@ -1,5 +1,5 @@
 # Amplification Circuit
-# Part 2: 8462
+# Part 2: Rank 8462
 
 class Amplifier:
     def __init__(self, phase):
