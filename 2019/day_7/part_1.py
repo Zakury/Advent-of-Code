@@ -1,3 +1,6 @@
+# Amplification Circuit
+# Part 1: 837
+
 thrusters = []
 
 for i in range(0, 44445):
